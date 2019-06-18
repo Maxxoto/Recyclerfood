@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6f3494174316dc899d90f5f3a26abcf2/AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/b8dc4b5e25d90992d550a025dfd37813/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/db56ba86f5954b6fdf49f3fe1f805d2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/2d79912d4c07c62d74bc18852a3b4ec2/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ef4f9921b17451a18f5539fb7b67747e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/hamlet/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a9378d3b32986d57029680f8453864d2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2ddeff159216bf235f7a57528b553f53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0a4ddee7b11687562a374bc1f0f97dfb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1ed038b13131fd9bcb878d6ca5a13213/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9eeb3fb280adc350755601b95d99cbde/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/be18bf51a53053dd8b4546b751a4bf7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/00a19d2ef3f8ae151a5c005c1c2e5872/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8169ccc45d1dd5e77c27f787330361fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/39ef0950c9cc2ef200febaef1d043fde/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3e548fc3bbf825824fe4baf3d55e58a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/1071efca962649bcfad88ee91a924a87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/16118be54a4fece8ed9a9f12cfbc874a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/076db2da660f377c9460dbb3909e94ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/912683855ac467e9e22dc6627f32e9e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d02ab9c522eaeb41ddb1aea70b409daf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/de14ff93bfa639ae05f41cda3be667c7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/126533d6d1964a7eabaef53e47c1b185/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b5c8d903daf16e73b08c10a3c6fe53fc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/hamlet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9b9c104cccc84d75b4e287696c88216c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/06c0c6c704fd35153bd72e5c9648336b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/hamlet/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3faa7c74ef4b9d47cc99731b6c784392/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7caecd79f4bd3e624014aaac6e2f5ff0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c4829888fc1e87901600b6f429574a6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ed340789399a7944c8eb90aad7f592f5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/hamlet/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2515dc0234a1d45ea1c461d250125daa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/hamlet/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3b5fdf8656f4e55ec9b79cf19e5b3027/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/hamlet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/97c03b2052da010d19c036827588a509/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:3:11-49
+		INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml
+		ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml
+		ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/b8dc4b5e25d90992d550a025dfd37813/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/b8dc4b5e25d90992d550a025dfd37813/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/2d79912d4c07c62d74bc18852a3b4ec2/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/2d79912d4c07c62d74bc18852a3b4ec2/AndroidManifest.xml:10:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/hamlet/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a9378d3b32986d57029680f8453864d2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/hamlet/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a9378d3b32986d57029680f8453864d2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d02ab9c522eaeb41ddb1aea70b409daf/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d02ab9c522eaeb41ddb1aea70b409daf/AndroidManifest.xml:22:5-94
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/de14ff93bfa639ae05f41cda3be667c7/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/de14ff93bfa639ae05f41cda3be667c7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/126533d6d1964a7eabaef53e47c1b185/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/126533d6d1964a7eabaef53e47c1b185/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d02ab9c522eaeb41ddb1aea70b409daf/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:12:13-39
+	android:label
+		ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:10:13-45
+	android:roundIcon
+		ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:11:13-58
+	android:icon
+		ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:9:13-47
+	android:allowBackup
+		ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:8:13-39
+	android:theme
+		ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:13:13-44
+activity#com.hamlet.dicoding_beginner.MainDetail
+ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:14:9-15:20
+	android:name
+		ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:14:19-45
+activity#com.hamlet.dicoding_beginner.MainActivity
+ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml
+INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6f3494174316dc899d90f5f3a26abcf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6f3494174316dc899d90f5f3a26abcf2/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/b8dc4b5e25d90992d550a025dfd37813/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/b8dc4b5e25d90992d550a025dfd37813/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/db56ba86f5954b6fdf49f3fe1f805d2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/db56ba86f5954b6fdf49f3fe1f805d2a/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/2d79912d4c07c62d74bc18852a3b4ec2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/2d79912d4c07c62d74bc18852a3b4ec2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ef4f9921b17451a18f5539fb7b67747e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ef4f9921b17451a18f5539fb7b67747e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/hamlet/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a9378d3b32986d57029680f8453864d2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/hamlet/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a9378d3b32986d57029680f8453864d2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2ddeff159216bf235f7a57528b553f53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2ddeff159216bf235f7a57528b553f53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0a4ddee7b11687562a374bc1f0f97dfb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0a4ddee7b11687562a374bc1f0f97dfb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1ed038b13131fd9bcb878d6ca5a13213/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1ed038b13131fd9bcb878d6ca5a13213/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9eeb3fb280adc350755601b95d99cbde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9eeb3fb280adc350755601b95d99cbde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/be18bf51a53053dd8b4546b751a4bf7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/be18bf51a53053dd8b4546b751a4bf7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/00a19d2ef3f8ae151a5c005c1c2e5872/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/00a19d2ef3f8ae151a5c005c1c2e5872/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8169ccc45d1dd5e77c27f787330361fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8169ccc45d1dd5e77c27f787330361fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/39ef0950c9cc2ef200febaef1d043fde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/39ef0950c9cc2ef200febaef1d043fde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3e548fc3bbf825824fe4baf3d55e58a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3e548fc3bbf825824fe4baf3d55e58a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/1071efca962649bcfad88ee91a924a87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/1071efca962649bcfad88ee91a924a87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/16118be54a4fece8ed9a9f12cfbc874a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/16118be54a4fece8ed9a9f12cfbc874a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/076db2da660f377c9460dbb3909e94ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/076db2da660f377c9460dbb3909e94ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/912683855ac467e9e22dc6627f32e9e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/912683855ac467e9e22dc6627f32e9e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d02ab9c522eaeb41ddb1aea70b409daf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d02ab9c522eaeb41ddb1aea70b409daf/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/de14ff93bfa639ae05f41cda3be667c7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/de14ff93bfa639ae05f41cda3be667c7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/126533d6d1964a7eabaef53e47c1b185/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/126533d6d1964a7eabaef53e47c1b185/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b5c8d903daf16e73b08c10a3c6fe53fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b5c8d903daf16e73b08c10a3c6fe53fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/hamlet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9b9c104cccc84d75b4e287696c88216c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/hamlet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9b9c104cccc84d75b4e287696c88216c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/06c0c6c704fd35153bd72e5c9648336b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/06c0c6c704fd35153bd72e5c9648336b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/hamlet/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3faa7c74ef4b9d47cc99731b6c784392/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/hamlet/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3faa7c74ef4b9d47cc99731b6c784392/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7caecd79f4bd3e624014aaac6e2f5ff0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7caecd79f4bd3e624014aaac6e2f5ff0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c4829888fc1e87901600b6f429574a6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c4829888fc1e87901600b6f429574a6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ed340789399a7944c8eb90aad7f592f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/hamlet/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ed340789399a7944c8eb90aad7f592f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/hamlet/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2515dc0234a1d45ea1c461d250125daa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/hamlet/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2515dc0234a1d45ea1c461d250125daa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/hamlet/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3b5fdf8656f4e55ec9b79cf19e5b3027/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/hamlet/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3b5fdf8656f4e55ec9b79cf19e5b3027/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/hamlet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/97c03b2052da010d19c036827588a509/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/hamlet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/97c03b2052da010d19c036827588a509/AndroidManifest.xml:20:5-44
+INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml
+INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml
+		ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml
+		ADDED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hamlet/Desktop/Dicoding_Beginner/app/src/main/AndroidManifest.xml

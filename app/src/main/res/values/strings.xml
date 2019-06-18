@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dicoding_Beginner</string>
+    <string name="grid">Grid</string>
+    <string name="card">Card</string>
+    <string name="list">List</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+
+    <string name="kota">Kota</string>
+    <string name="bahan">Bahan Dasar</string>
+    <string name="harga">Harga Rata-rata</string>
+
+</resources>

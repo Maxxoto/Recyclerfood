@@ -1,0 +1,4 @@
+#Tue Jun 18 12:45:19 WIB 2019
+base.0=/home/hamlet/Desktop/Dicoding_Beginner/app/build/intermediates/transforms/dexMerger/release/0
+renamed.0=classes.dex
+path.0=classes.dex

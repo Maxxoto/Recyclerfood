@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Jun 12 15:06:47 WIB 2019
+0.base=/home/hamlet/Desktop/Dicoding_Beginner/app/build/intermediates/transforms/dexMerger/debug/12
+0.path=classes.dex
+1.baseType=DIRECTORY
+count=2
+1.path=classes.dex
+0.baseType=DIRECTORY
+1.set=DEX
+1.base=/home/hamlet/Desktop/Dicoding_Beginner/app/build/intermediates/transforms/dexMerger/debug/13
+0.set=DEX

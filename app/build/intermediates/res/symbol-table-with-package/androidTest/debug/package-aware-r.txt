@@ -1,0 +1,1 @@
+com.hamlet.dicoding_beginner.test
